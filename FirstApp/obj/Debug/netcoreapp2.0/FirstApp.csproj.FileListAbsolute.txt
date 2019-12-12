@@ -1,0 +1,39 @@
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.deps.json
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.runtimeconfig.json
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.runtimeconfig.dev.json
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.pdb
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.csprojResolveAssemblyReference.cache
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.csproj.CoreCompileInputs.cache
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.AssemblyInfoInputs.cache
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.AssemblyInfo.cs
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.pdb
+C:\Users\komacchi\Documents\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\komacchi\Documents\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\komacchi\Documents\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\komacchi\Documents\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\komacchi\Documents\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.deps.json
+C:\Users\komacchi\Documents\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.runtimeconfig.json
+C:\Users\komacchi\Documents\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.runtimeconfig.dev.json
+C:\Users\komacchi\Documents\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.dll
+C:\Users\komacchi\Documents\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.pdb
+C:\Users\komacchi\Documents\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.csprojAssemblyReference.cache
+C:\Users\komacchi\Documents\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.AssemblyInfoInputs.cache
+C:\Users\komacchi\Documents\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.AssemblyInfo.cs
+C:\Users\komacchi\Documents\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.dll
+C:\Users\komacchi\Documents\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.pdb
+D:\Projekt\web\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Projekt\web\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Projekt\web\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\Projekt\web\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Projekt\web\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.deps.json
+D:\Projekt\web\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.runtimeconfig.json
+D:\Projekt\web\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.runtimeconfig.dev.json
+D:\Projekt\web\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.dll
+D:\Projekt\web\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.pdb
+D:\Projekt\web\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.csprojAssemblyReference.cache
+D:\Projekt\web\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.AssemblyInfoInputs.cache
+D:\Projekt\web\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.AssemblyInfo.cs
+D:\Projekt\web\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.dll
+D:\Projekt\web\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.pdb
